@@ -6,6 +6,8 @@
     "bs-css": "^5.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
     "reason-scripts": "0.8.0"
   },
   "scripts": {
